@@ -1,0 +1,2 @@
+Esse repositório tem como propósito acompanhar 
+e medir meu aprendizado em Python.
