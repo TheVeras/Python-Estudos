@@ -1,0 +1,9 @@
+{
+    "nome":"André Vianco",
+    "nacionalidade":"brasileiro",
+    "data-nascimento":"10/01/1975",
+    "obra":{
+        "titulo":"Os Sete",
+        "ano-publicacao":"1999"
+    }
+}
